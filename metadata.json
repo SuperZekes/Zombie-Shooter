@@ -1,0 +1,5 @@
+{
+  "name": "Zombie FPS",
+  "description": "A simple first-person shooter style game built with React and Tailwind CSS. Click on the zombies to earn points before the time runs out.",
+  "requestFramePermissions": []
+}
